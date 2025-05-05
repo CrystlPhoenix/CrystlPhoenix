@@ -2,9 +2,9 @@
 - 👀 I’m interested in ... web design
 - 🌱 I’m currently learning ... JS, Python, Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... victoryajigbotosho9@gmail.com
+- 📫 How to reach me ... victoryajigbotosho9@gmail.com or whatsapp: +2348142053478
 
-I'm an aspiring full-stack developer with a passion learning to build beautiful, awesome, scalable web applications. Currently, I'm deep into learning **React** and **Django**, and I'm on a journey to master both frontend and backend development. I enjoy solving problems and finding efficient ways to create smooth user experiences.
+I'm an aspiring full-stack developer with a passion learning to build beautiful, awesome, scalable web applications. Currently, I'm into learning **React** and **Django**, and I'm on a journey to master both frontend and backend development. I enjoy solving problems and finding efficient ways to create smooth user experiences.
 
 ---
 
